@@ -80,11 +80,11 @@ enabled = true
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = ""
-apiUrl = ""
-apiKey = ""
-admin = ""
-adminLabel = ""
+shortname = "derederesite"
+apiUrl = "https://disqus.skk.moe/disqus/"
+apiKey = "Sc3zXrW46CnRKFcvjuhVewNkMGRKBN928LoxOaUahKXcMIX1vBmv9wgqEzUasUTQ"
+admin = "byfe"
+adminLabel = "mimin"
 
 [comments.utterances]
 repo = ""
