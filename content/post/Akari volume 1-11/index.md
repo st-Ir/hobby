@@ -2,7 +2,7 @@
 title: Akari volume 1-11
 description: manga fufu ijou Koibito miman
 date: 2023-08-26 00:00:00+0000
-image: 1.jpg
+image: 2.jpg
 ---
 
 ## Fufu ijou Koibito miman / [FuuKoi](https://fuukoi-anime.com/)
