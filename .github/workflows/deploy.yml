@@ -47,5 +47,5 @@ jobs:
               with:
                   branch: gh-pages
                   folder: public
-                  clean: false
+                  clean: true
                   single-commit: true
