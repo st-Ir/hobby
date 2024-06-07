@@ -14,7 +14,7 @@ categories :
 
 ## Fufu ijou Koibito miman / [FuuKoi](https://fuukoi-anime.com/)
 
-Jirou adalah otaku yang mencintai teman masa kecilnya sakurazaka shiori, mereka merupakan pasangan yang berbeda dalam praktik menjadi keluarga disekolahnya, akari, seorang gal yang menyukai tenjin minami secara kebetulan merupakan pasangan praktik shiori, akari yang masih menyukai minami dengan keterbukaannya dan jirou serta shiori yang penuh kesalah pahaman dalam pernyataan cintanya, mereka berlomba mengincar pringkat untuk melakukan pertukaran pasangan, untuk mencapai hal itu mereka harus bermesraan dengan pasangan praktik nya, akankah keinginan mereka menjadi nyata ?... **This page writer**
+Jirou adalah otaku yang mencintai teman saat kecilnya sakurazaka shiori, mereka merupakan pasangan yang berbeda dalam praktik menjadi keluarga disekolahnya, akari, seorang gal yang menyukai tenjin minami secara kebetulan merupakan pasangan praktik shiori, akari yang masih menyukai minami dengan keterbukaannya dan jirou serta shiori yang penuh kesalah pahaman dalam pernyataan cintanya, mereka berlomba mengincar pringkat untuk melakukan pertukaran pasangan, untuk mencapai hal itu mereka harus bermesraan dengan pasangan praktik nya, akankah keinginan mereka menjadi nyata ?... **This page writer**
 
 ## Informasi 
 
