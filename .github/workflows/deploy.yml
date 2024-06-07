@@ -48,4 +48,4 @@ jobs:
                   branch: gh-pages
                   folder: public
                   clean: false
-                  single-commit: false
+                  single-commit: true
